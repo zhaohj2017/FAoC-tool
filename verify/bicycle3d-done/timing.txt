@@ -1,0 +1,74 @@
+0
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+The last epoch: 12 of restart: 1
+
+Data generation totally costs: 1.9077236652374268
+Training totally costs: 752.6271886825562
+-------------------------------------------------------------------------
+1
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 25 of restart: 2
+
+Data generation totally costs: 1.8489367961883545
+Training totally costs: 1528.0674805641174
+-------------------------------------------------------------------------
+2
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 139 of restart: 0
+
+Data generation totally costs: 1.8523626327514648
+Training totally costs: 499.83276867866516
+-------------------------------------------------------------------------
+3
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 32 of restart: 0
+
+Data generation totally costs: 1.8611998558044434
+Training totally costs: 122.64090633392334
+-------------------------------------------------------------------------
+4
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 43 of restart: 1
+
+Data generation totally costs: 1.8682684898376465
+Training totally costs: 924.4128115177155
+-------------------------------------------------------------------------

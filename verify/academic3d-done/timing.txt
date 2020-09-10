@@ -1,0 +1,171 @@
+0
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 63 of restart: 0
+
+Data generation totally costs: 1.9733095169067383
+Training totally costs: 240.94563150405884
+-------------------------------------------------------------------------
+1
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 81 of restart: 0
+
+Data generation totally costs: 2.1278798580169678
+Training totally costs: 301.2165982723236
+-------------------------------------------------------------------------
+2
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 104 of restart: 3
+
+Data generation totally costs: 1.8866136074066162
+Training totally costs: 2522.154560804367
+-------------------------------------------------------------------------
+3
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 83 of restart: 1
+
+Data generation totally costs: 1.8094441890716553
+Training totally costs: 1001.6585218906403
+-------------------------------------------------------------------------
+4
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 110 of restart: 0
+
+Data generation totally costs: 1.7982184886932373
+Training totally costs: 390.24726247787476
+-------------------------------------------------------------------------

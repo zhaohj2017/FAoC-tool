@@ -1,0 +1,48 @@
+0
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+The last epoch: 54 of restart: 1
+
+Data generation totally costs: 1.1986114978790283
+Training totally costs: 478.2898349761963
+-------------------------------------------------------------------------
+1
+Initialize nn parameters!
+Initialize nn parameters!
+The last epoch: 55 of restart: 0
+
+Data generation totally costs: 0.9919278621673584
+Training totally costs: 168.74705743789673
+-------------------------------------------------------------------------
+2
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+The last epoch: 96 of restart: 0
+
+Data generation totally costs: 0.9810764789581299
+Training totally costs: 292.9579327106476
+-------------------------------------------------------------------------
+3
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 33 of restart: 0
+
+Data generation totally costs: 0.9705545902252197
+Training totally costs: 111.55435848236084
+-------------------------------------------------------------------------
+4
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+The last epoch: 13 of restart: 0
+
+Data generation totally costs: 0.9662878513336182
+Training totally costs: 43.88569736480713
+-------------------------------------------------------------------------

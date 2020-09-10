@@ -1,0 +1,84 @@
+0
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 14 of restart: 0
+
+Data generation totally costs: 1.0674617290496826
+Training totally costs: 60.59108281135559
+-------------------------------------------------------------------------
+1
+Initialize nn parameters!
+Initialize nn parameters!
+The last epoch: 20 of restart: 0
+
+Data generation totally costs: 1.1330397129058838
+Training totally costs: 72.46840953826904
+-------------------------------------------------------------------------
+2
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 18 of restart: 0
+
+Data generation totally costs: 1.0785870552062988
+Training totally costs: 64.63734483718872
+-------------------------------------------------------------------------
+3
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 13 of restart: 0
+
+Data generation totally costs: 1.0579369068145752
+Training totally costs: 48.08494806289673
+-------------------------------------------------------------------------
+4
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Initialize nn parameters!
+Initialize nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+Scale nn parameters!
+The last epoch: 14 of restart: 1
+
+Data generation totally costs: 1.054419755935669
+Training totally costs: 851.4885518550873
+-------------------------------------------------------------------------
